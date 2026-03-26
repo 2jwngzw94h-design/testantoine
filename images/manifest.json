@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://2jwngzw94h-design.github.io/testantoine/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in 2jwngzw94h-design/testantoine project"
+        ]
+    },
+    "items": []
+}
